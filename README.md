@@ -13,14 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 
   - AWS 
   - Docker 
-  - React, 
-  - PostgreSQL 
-  - Git
-  - Github 
-  - Python 
-  - HTML
-  - CSS 
-  - Java
+  - React
 - 👯 I’m looking to collaborate with the Charleston Digital Corridor and IEEE.
 - 🤔 I’m looking for help with any of the above.
 - 💬 Ask me about Holocaust_Veterans, Watson-Precision-Agriculture, and the synergy between learning music, knowing math, and developing software.
