@@ -5,15 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on mastering the software development lifecycle by practicing: 
-  - cloud technologies 
-  - containerization
-  - SQL
-  - Javascript 
-- 🌱 I’m currently learning 
-  - AWS 
-  - Docker 
-  - React
+- 🔭 I’m currently working on mastering the software development lifecycle by practicing deployment to cloud technologies, containerization, SQL, and Javascript.
+- 🌱 I’m currently learning AWS, Docker, and React.
 - 👯 I’m looking to collaborate with the Charleston Digital Corridor and IEEE.
 - 🤔 I’m looking for help with any of the above.
 - 💬 Ask me about Holocaust_Veterans, Watson-Precision-Agriculture, and the synergy between learning music, knowing math, and developing software.
