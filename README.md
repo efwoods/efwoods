@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on mastering the software development lifecycle by practicing deployment to cloud technologies, containerization, SQL, and Javascript.
-- 🌱 I’m currently learning Machine Learning with PyTorch.
-- 👯 I’m looking to collaborate with the Charleston Digital Corridor and IEEE.
-- 🤔 I’m looking for help with any of the above.
-- 💬 Ask me about Holocaust_Veterans, Watson-Precision-Agriculture, and the synergy between learning music, knowing math, and developing software.
+- 🔭 I’m currently working on mastering my understanding of statistics & the model development lifecycle by practicing tidying data, creating models, evaluating models, and improving model performance.
+- 🌱 I’m currently learning Statistical Learning and Regression Analysis with R.
+- 👯 I’m looking to collaborate with the Charleston Digital Corridor, IEEE, and Neuroscientists.
+- 🤔 I’m looking for help with understanding the biological mechanisms of memory and learning.
+- 💬 Ask me about Holocaust_Veterans, Watson-Precision-Agriculture, Leadership & People Analytics, and An Introduction to Statistical Learning.
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/evanfwoods/
 - 😄 Pronouns: He/Him
