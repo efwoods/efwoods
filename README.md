@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Statistical Learning and Regression Analysis with R.
 - 👯 I’m looking to collaborate with Neuroscientists, Data Scientists, Statisticians, Engineers, & Product Managers.
 - 🤔 I’m looking for help with understanding the biological mechanisms of memory and learning.
-- 💬 Ask me about Holocaust_Veterans, Watson-Precision-Agriculture, Leadership & People Analytics, An Introduction to Statistical Learning, and my volunteer work with the Helping Hands Charity.
+- 💬 Ask me about my current favorite book: An Introduction to Statistical Learning, my work with IBM & Clemson University, or my volunteer work with the Helping Hands Charity.
 - 📫 How to reach me [Email is best]:
   - https://www.linkedin.com/in/evanfwoods/
 - 😄 Pronouns: He/Him
