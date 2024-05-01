@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with Neuroscientists, Data Scientists, Statisticians, Engineers, & Product Managers.
 - 🤔 I’m looking for help with understanding the biological mechanisms of memory and learning.
 - 💬 Ask me about my current favorite book: An Introduction to Statistical Learning, my work with IBM & Clemson University, or my volunteer work with the Helping Hands Charity.
-- 📫 How to reach me [Email is best]:
+- 📫 How to reach me [Email is best & available upon request]:
   - https://www.linkedin.com/in/evanfwoods/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was a child actor in a variety of plays with the Charleston Stage Company.
