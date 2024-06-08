@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on mastering my understanding of statistics & the model development lifecycle by practicing tidying data, creating models, evaluating models, and improving model performance.
-- 🌱 I’m currently learning Statistical Learning and Regression Analysis with R.
+- 🔭 I’m currently working on mastering my understanding of statistics, the model development lifecycle, and professional pythonic development by practicing tidying data, creating models, evaluating models, improving model performance, and practicing audio compression through the Neuralink Compression Challenge.
+- 🌱 I’m currently learning Python Programming and the human mind through An Introduction to Python by Bill Lubanovic and Nancy Kanwisher's 9.13 The Human Brain course through MIT OpenCourseWare.
 - 👯 I’m looking to collaborate with Neuroscientists, Data Scientists, Statisticians, Engineers, & Product Managers.
 - 🤔 I’m looking for help with understanding the biological mechanisms of memory and learning.
-- 💬 Ask me about my current favorite book: An Introduction to Statistical Learning, my work with IBM & Clemson University, or my volunteer work with the Helping Hands Charity.
+- 💬 Ask me about my current favorite course: MIT's 9.13 The Human Brain, my work with IBM & Clemson University, or my volunteer work with the Helping Hands Charity.
 - 📫 How to reach me [Email is best & available upon request]:
   - https://www.linkedin.com/in/evanfwoods/
 - 😄 Pronouns: He/Him
