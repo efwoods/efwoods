@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with Neuroscientists, Data Scientists, Statisticians, Engineers, & Product Managers.
 - 🤔 I’m looking for help with understanding the biological mechanisms of memory and learning.
 - 💬 Ask me about my current favorite course: MIT's 9.13 The Human Brain, my work with IBM & Clemson University, or my volunteer work with the Helping Hands Charity.
-- 📫 How to reach me [Email is best & available upon request]:
-  - https://www.linkedin.com/in/evanfwoods/
+- 📫 How to reach me evanwoods.contact@icloud.com:
 - ⚡ Fun fact: I was an actor in a variety of plays with the Charleston Stage Company.
 <!--
 [![efwoods's GitHub stats](https://github-readme-stats.vercel.app/api?username=efwoods)](https://github.com/anuraghazra/github-readme-stats)
