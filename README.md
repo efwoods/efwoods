@@ -1,6 +1,8 @@
 ### Hi there 👋
 Hi my name is Evan! I'm a software engineer working on a startup, Afterlife Systems Incorporated. We are creating A.I. reconstructed personalities of real-world individuals through fine-tuning and few shot prompting data pipe-lined from social media, told through personal stories of our users, or uploaded by the users themselves. I am looking for a partner to join me in an incubator. If you are interested in the work or the partnership, please contact me!
 
+Contact Email: business@neuralnexus.site
+
 API URL: http://api.neuralnexus.site
 
 Welcome Page: https://neuralnexus.site/welcome
