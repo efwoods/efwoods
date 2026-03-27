@@ -17,7 +17,7 @@ Typical use cases include:
 - Future integration with neural data for thought-to-media and media-to-thought applications (thought-to-image, image-to-neural waveform, etc.): https://github.com/efwoods/V1-Visual-Cortex-Visualization
 
 I am currently working on:
-- Developing pipe-lines to pull, clean, and upload data from social media or uploaded files.
+- Developing pipelines to pull, clean, and upload data from social media or uploaded files.
 - Creating statistical proof of the authenticity of the responses using metrics such as the Mahalanobis Distance with respect to metrics such as rouge and BERT scores to measure response semantic similarity as well as longest sub-sequence length with the aim of evaluating authenticity against a known public individual's dataset. 
 - Creating API endpoints to allow use of the Langgraph graph through integrations with other social media bot interfaces such as Slack, Discord, Twitter, and Twitch among others for moderation or any of the above listed features of the application.
 - Optimizing the architecture to allow for a scalable API interface to support the requests of multiple simultaneous users.
