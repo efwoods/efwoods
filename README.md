@@ -8,7 +8,7 @@ API URL: http://api.neuralnexus.site
 Welcome Page: https://neuralnexus.site/welcome
 
 Typical use cases include:
-- Recreating experiences of communicating with people no longer with us.
+- Recreating experiences of communicating with people no longer with us to celebrate the best of their existence and to continue experiencing their presence.
 - Creating entertaining experiences of interacting with public-domain characters.
 - Creating your own avatar to share or for insights into your own personal health and well-being by ingesting health-kit data such as nutrition, sleep, financial data, time-tracking data, browsing history, and physical activity.
 - Creating messages in your own custom tone of voice for use in email responses, tweet responses, and custom git logs or to assist in writing in your own vocal style.
