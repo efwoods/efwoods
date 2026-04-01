@@ -3,7 +3,7 @@ Hi my name is Evan! I'm a software engineer working on a startup, Afterlife Syst
 
 Contact Email: business@neuralnexus.site
 
-API URL: http://api.neuralnexus.site
+API URL: https://api.neuralnexus.site
 
 Welcome Page: https://neuralnexus.site/welcome
 
