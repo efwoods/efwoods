@@ -11,7 +11,7 @@ Typical use cases include:
 - Recreating experiences of communicating with people no longer with us to celebrate the best of their existence and to continue experiencing their presence.
 - Creating entertaining experiences of interacting with public-domain characters.
 - Creating your own avatar to share or for insights into your own personal health and well-being by ingesting health-kit data such as nutrition, sleep, financial data, time-tracking data, browsing history, and physical activity.
-- Creating messages in your own custom tone of voice for use in email responses, tweet responses, and custom git logs or to assist in writing in your own vocal style.
+- Creating messages in your own custom tone of voice for use in email responses, tweet responses, and custom git logs or to assist in writing in your own vocal style. [Create your own custom git commits!](https://github.com/efwoods/neural-nexus-custom-commits)
 - Creating simple public avatars for context-oriented responses from the Project Gutenberg Bible to offer the world a safe, comforting place for their prayers with personal responses from the Bible or other religious text.
 - Creating non-denominational motivational public speaker avatars with their consent for personal on-demand contextual self help guidance. 
 - Future integration with neural data for thought-to-media and media-to-thought applications (thought-to-image, image-to-neural waveform, etc.): https://github.com/efwoods/V1-Visual-Cortex-Visualization
