@@ -18,10 +18,12 @@ Typical use cases include:
 
 I am currently working on:
 - Developing pipelines to pull, clean, and upload data from social media or uploaded files.
-- Creating statistical proof of the authenticity of the responses using metrics such as the Mahalanobis Distance with respect to metrics such as rouge and BERT scores to measure response semantic similarity as well as longest sub-sequence length with the aim of evaluating authenticity against a known public individual's dataset. 
+- Creating statistical proof of the authenticity of created responses to evaluate authenticity against an individual's dataset of direct quotes or an unmodified chatgpt reponse. 
 - Creating API endpoints to allow use of the Langgraph graph through integrations with other social media bot interfaces such as Slack, Discord, Twitter, and Twitch among others for moderation or any of the above listed features of the application.
 - Optimizing the architecture to allow for a scalable API interface to support the requests of multiple simultaneous users.
 - Fine-tuning adapters to attach to meta-llama models.
+- Creating Social Media Integrations to interface with the Neural Nexus API
+- Creating MCP connections to analyze data and communicate on account of the real-world user
 
 If you have experience or interest in any of the above areas, I welcome working with you in the future.
 
