@@ -27,6 +27,6 @@ I am currently working on:
 
 If you have experience or interest in any of the above areas, I welcome working with you in the future.
 
-I am planning on applying to incubators such as Nvidia's Inception program and Y Combinator Fall 2026.
+I am planning on applying to incubators such as Nvidia's Inception program and Y Combinator Winter 2027.
 
 Thank you for your time, interest, and attention! Best of luck with all your future efforts!
